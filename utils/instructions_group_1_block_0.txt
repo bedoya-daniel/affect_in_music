@@ -1,0 +1,9 @@
+﻿ENTRAINEMENT: vos réponses ne seront pas prises en compte.
+
+Vous allez écouter des paires de sons, et nous vous demanderons de juger l’émotion qu’ils expriment. Plus précisément, dans chaque paire, vous allez écouter 2 enregistrements différents du même extrait musical ou de la même phrase. À chaque fois, votre tâche consiste à comparer l’émotion qui est exprimée dans le PREMIER enregistrement, par rapport au DEUXIÈME.
+
+Vous devrez indiquer votre réponse à l’aide de deux échelles, gradées de 1 à 7, qui apparaîtront à l’écran après l’écoute. Avec la première échelle, vous devrez juger si le PREMIER enregistrement de la paire exprime une émotion plus négative (ex. triste / colérique / inquiet ) ou plus plus positive (ex. satisfait / joyeux / optimiste) que le DEUXIÈME enregistrement. Avec la deuxième échelle, vous devrez juger si le PREMIER enregistrement de la paire est plus calme (ex. serein / détendu / résigné) ou plus agité (ex. excité / énervé / anxieux) que le DEUXIÈME. Tenez en compte que les différences peuvent être subtiles; faites confiance à votre instinct ! Cependant, si vous ne trouvez aucune différence entre les extraits, appuyez sur 4 («aucune différence»).
+
+Notez que vous pouvez changer d'avis (sélectionner un autre chiffre sur l'échelle) autant de fois que nécessaire, avant de valider votre choix avec la touche 'enter'. Essayez cependant de répondre le plus rapidement possible.
+   
+Quand vous serez prêt, appuyez sur la barre 'espace'.
